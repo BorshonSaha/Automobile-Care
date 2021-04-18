@@ -1,4 +1,4 @@
-Live Website: https://bs-automobile-care.web.app/home
+Live Website: https://bs-automobile-care.web.app/
 
 Hi Welcome to Automobile-Care.
 We are for Professional Washing and Cleaning of Your Car.
